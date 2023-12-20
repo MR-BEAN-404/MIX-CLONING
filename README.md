@@ -18,7 +18,7 @@ __FILE=DUMP__
 
 `git pull`
 
-`python MIX.py`
+`python MIX_V1.py`
 
 ## Find Me on :
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/MR.DAVID.404.XD)
